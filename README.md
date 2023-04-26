@@ -190,5 +190,8 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 <img width="80px" height="45px" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" style="max-width: 100%;">
  </a>
   
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mathworks.com/products/matlab.html">
+<img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="max-width: 100%;">
+ </a>
  </kbd>
 </p>
