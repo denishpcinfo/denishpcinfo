@@ -59,7 +59,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
     <br>
   </a>
       <a href="https://spring.io/" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50" style="max-width: 100%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" style="max-width: 100%;">
   </a>
         <a href="https://laravel.com/" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="spring" width="40" style="max-width: 100%;">
@@ -118,6 +118,7 @@ href="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddf
 
 <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;">
 </kbd>
+
 <br>
  <br>
 <kbd>
@@ -141,7 +142,6 @@ href="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddf
  <img width="40px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
  
 <img width="80px" height="45px" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" style="max-width: 100%;">
- 
  
  </kbd>
 </p>
