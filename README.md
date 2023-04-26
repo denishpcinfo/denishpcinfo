@@ -81,19 +81,25 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
     <br> 
          <a href="https://angular.io" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" style="max-width: 100%;">
-    <a target="_blank" rel="noopener noreferrer nofollow" 
-href="https://html.spec.whatwg.org/">
+          </a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://html.spec.whatwg.org/">
      <img width="40px" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"></a> 
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.w3.org/TR/css3-roadmap/">
+ </a>
+ 
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.w3.org/TR/css3-roadmap/">
      <img width="40px" src="https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;"></a> 
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://getbootstrap.com/">
-     <img width="40px" src="https://camo.githubusercontent.com/964a169bbc7417bcf2b1ee0ddd2122d9592a50dee693f9421428bdd11d32c18e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="max-width: 100%;"></a> 
-  </a>
+   </a>
+   
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://getbootstrap.com/">
+     <img width="40px" src="https://camo.githubusercontent.com/964a169bbc7417bcf2b1ee0ddd2122d9592a50dee693f9421428bdd11d32c18e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="max-width: 100%;">
+</a> 
      <a href="https://sass-lang.com" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;">
+ </a>
       <a href="https://pt.wikipedia.org/wiki/JavaScript" rel="nofollow">
       <img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="sass" width="40" height="40" style="max-width: 100%;">
         </a>
+        
   </kbd>
  <br>
     <br>
@@ -101,16 +107,18 @@ href="https://html.spec.whatwg.org/">
     <kbd>Banco de Dados</kbd>
     <br>
     <br>
-  </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mysql.com/">
  <img width="40px" src="https://camo.githubusercontent.com/0acfb66ff89d656d796de72f1b001e92dc51bc88139b5b344339a808d35090d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="max-width: 100%;">
-
+</a>
+ 
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.postgresql.org/">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
-
+</a>
+ 
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mongodb.com/">
 <img width="40px" src="https://camo.githubusercontent.com/13838c5727b2d6d6ecefbdc1003486d7d0de5bf0ed9f0f490e10f7b3452e708e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" style="max-width: 100%;">
 </a>
+ 
   </kbd>
 </p>
 <p align="center" dir="auto">
@@ -118,19 +126,27 @@ href="https://html.spec.whatwg.org/">
  <kbd>System, Networking & Deployment </kbd>
  <br>
  <br>
- </a>
  
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://aws.amazon.com/pt/">
  <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="max-width: 100%;">
 </a>
+ 
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.heroku.com/">
- <img width="40px" src="https://camo.githubusercontent.com/e28ded186e568aba00abd5c8830f26d821add2d97ddf4a41cf545ec6a1245758/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="max-width: 100%;"></a>
+ <img width="40px" src="https://camo.githubusercontent.com/e28ded186e568aba00abd5c8830f26d821add2d97ddf4a41cf545ec6a1245758/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="max-width: 100%;">
+ </a>
 
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.heroku.com/">
 <img width="40px" src="https://camo.githubusercontent.com/ddd323c6c51fbc9a81fcbb60fe25a588ab59fdd6567b7e827f4d2d5c4e09f6a1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="max-width: 100%;">
-
+ </a>
+ 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.heroku.com/">
 <img width="40px" src="https://camo.githubusercontent.com/f64a041d6d0cda76988a117724ce3b3272b8fc5f9f742c4dcb9160be9a2c41c1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="max-width: 100%;">
-
+ </a>
+ 
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.heroku.com/">
 <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;">
+   </a>
+ 
 </kbd>
 
 <br>
@@ -139,13 +155,19 @@ href="https://html.spec.whatwg.org/">
  <kbd>Tools </kbd>
  <br>
  <br>
- </a>
+ 
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://code.visualstudio.com/">
  <img width="30px" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
+ </a>
  
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jetbrains.com/pt-br/idea/">
  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="max-width: 100%;">
- 
+ </a>
+    
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://visualstudio.microsoft.com/pt-br/">
 <img width="30px" src="https://camo.githubusercontent.com/39ddd51193b851f304bd6c335bc25a837ec7cafbbc4876fa78b994f5e95094ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f76697375616c73747564696f2f76697375616c73747564696f2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width: 100%;">
- </kbd>
+ </a>
+    </kbd>
  <br>
  <br>
  
@@ -153,12 +175,14 @@ href="https://html.spec.whatwg.org/">
  <kbd>Desenvolvimento de Hardware </kbd>
  <br>
  <br>
- </a>
+
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.arduino.cc/en/software">
  <img width="40px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
- 
+ </a>
+  
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://devcon.espressif.com/">
 <img width="80px" height="45px" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" style="max-width: 100%;">
- 
+ </a>
+  
  </kbd>
 </p>
