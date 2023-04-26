@@ -66,7 +66,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
     <br>
   </a>
       <a href="https://spring.io/" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" style="max-width: 100%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="40" style="max-width: 100%;">
   </a>
         <a href="https://laravel.com/" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="spring" width="40" style="max-width: 100%;">
@@ -131,7 +131,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
  <br>
  
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://aws.amazon.com/pt/">
- <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="max-width: 100%;">
+ <img width="45px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="max-width: 100%;">
 </a>
  
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.heroku.com/">
@@ -160,15 +160,15 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
  <br>
  
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://code.visualstudio.com/">
- <img width="30px" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
+ <img width="40px" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
  </a>
  
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jetbrains.com/pt-br/idea/">
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="max-width: 100%;">
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="max-width: 100%;">
  </a>
     
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://visualstudio.microsoft.com/pt-br/">
-<img width="30px" src="https://camo.githubusercontent.com/39ddd51193b851f304bd6c335bc25a837ec7cafbbc4876fa78b994f5e95094ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f76697375616c73747564696f2f76697375616c73747564696f2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width: 100%;">
+<img width="40px" src="https://camo.githubusercontent.com/39ddd51193b851f304bd6c335bc25a837ec7cafbbc4876fa78b994f5e95094ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f76697375616c73747564696f2f76697375616c73747564696f2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width: 100%;">
  </a>
     </kbd>
  <br>
@@ -180,7 +180,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
  <br>
 
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.arduino.cc/en/software">
- <img width="40px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
+ <img width="40px" height="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
  </a>
   
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://devcon.espressif.com/">
