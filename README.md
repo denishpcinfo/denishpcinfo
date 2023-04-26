@@ -51,7 +51,9 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
   <a href="https://www.typescriptlang.org/" rel="nofollow">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;">
   </a>
-  <img href="https://www.r-project.org/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="spring" width="45" height="45" style="max-width: 100%;">
+ <a href="https://www.r-project.org/" rel="nofollow">
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45" style="max-width: 100%;">
+ </a>
   </kbd>
   <br>
  <br>
