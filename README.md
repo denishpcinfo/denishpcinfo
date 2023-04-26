@@ -148,13 +148,16 @@ href="https://html.spec.whatwg.org/">
  </kbd>
  <br>
  <br>
+ 
  <kbd>
  <kbd>Desenvolvimento de Hardware </kbd>
  <br>
  <br>
  </a>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.arduino.cc/en/software">
  <img width="40px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
  
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.espressif.com/">
 <img width="80px" height="45px" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" style="max-width: 100%;">
  
  </kbd>
