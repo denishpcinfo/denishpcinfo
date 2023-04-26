@@ -51,6 +51,9 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
   <a href="https://www.typescriptlang.org/" rel="nofollow">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;">
   </a>
+   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" rel="nofollow">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;">
+  </a>
  <a href="https://www.python.org/" rel="nofollow">
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="r" width="45" height="45" style="max-width: 100%;">
  </a>
