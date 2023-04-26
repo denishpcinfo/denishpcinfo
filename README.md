@@ -42,8 +42,10 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
  <kbd>Linguagens de programação </kbd>
  <br>
  <br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fa4e5b051fb6ee03227eca1d4960f9d83c746a84e5cfe30addcd5c80b705dad8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d706c61696e2e737667"><img  width="40px" height="40px" src="https://camo.githubusercontent.com/fa4e5b051fb6ee03227eca1d4960f9d83c746a84e5cfe30addcd5c80b705dad8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" style="max-width: 100%;"></a> 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a9b7e3111cc8724d6c8d8b1dc897cbfa59e250da49344ce098ae7834c122bed4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d706c61696e2e737667"><img width="40px" height="40px" src="https://camo.githubusercontent.com/a9b7e3111cc8724d6c8d8b1dc897cbfa59e250da49344ce098ae7834c122bed4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="max-width: 100%;"></a> 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fa4e5b051fb6ee03227eca1d4960f9d83c746a84e5cfe30addcd5c80b705dad8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d706c61696e2e737667"><img  width="40px" height="40px" src="https://camo.githubusercontent.com/fa4e5b051fb6ee03227eca1d4960f9d83c746a84e5cfe30addcd5c80b705dad8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" style="max-width: 100%;">
+ </a> 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a9b7e3111cc8724d6c8d8b1dc897cbfa59e250da49344ce098ae7834c122bed4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d706c61696e2e737667"><img width="40px" height="40px" src="https://camo.githubusercontent.com/a9b7e3111cc8724d6c8d8b1dc897cbfa59e250da49344ce098ae7834c122bed4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="max-width: 100%;">
+ </a> 
   <a href="https://www.typescriptlang.org/" rel="nofollow">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;">
   </a>
@@ -60,7 +62,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50" style="max-width: 100%;">
   </a>
         <a href="https://laravel.com/" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="spring" width="40" height="40" style="max-width: 100%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="spring" width="40" style="max-width: 100%;">
   </a>
       <a href="https://postman.com" rel="nofollow">
     <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
@@ -107,7 +109,8 @@ href="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddf
  </a>
  <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="max-width: 100%;">
 </a>
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e28ded186e568aba00abd5c8830f26d821add2d97ddf4a41cf545ec6a1245758/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2e737667"><img width="30px" src="https://camo.githubusercontent.com/e28ded186e568aba00abd5c8830f26d821add2d97ddf4a41cf545ec6a1245758/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e28ded186e568aba00abd5c8830f26d821add2d97ddf4a41cf545ec6a1245758/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2e737667">
+ <img width="40px" src="https://camo.githubusercontent.com/e28ded186e568aba00abd5c8830f26d821add2d97ddf4a41cf545ec6a1245758/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="max-width: 100%;"></a>
 
 <img width="40px" src="https://camo.githubusercontent.com/ddd323c6c51fbc9a81fcbb60fe25a588ab59fdd6567b7e827f4d2d5c4e09f6a1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="max-width: 100%;">
 
@@ -135,7 +138,7 @@ href="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddf
  <br>
  <br>
  </a>
- <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
+ <img width="40px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
  
 <img width="80px" height="45px" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" style="max-width: 100%;">
  
