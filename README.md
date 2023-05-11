@@ -7,7 +7,7 @@
  </a>
  <g-emoji class="g-emoji" alias="monocle_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d0.png">
   <img class="emoji" alt="monocle_face" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d0.png">
- </g-emoji> Sobre min
+ </g-emoji> Sobre mi
 </h2>
 
 <p dir="auto">
