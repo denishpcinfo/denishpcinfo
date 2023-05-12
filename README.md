@@ -77,7 +77,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 <li>
  <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">
   <img class="emoji" alt="zap" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">
- </g-emoji> Curiosidade: Sou autodidata, aprendo as coisas muito fácil! 
+ </g-emoji> Curiosidade: Sempre pensando na segurança dos dados! 
  <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">
   <img class="emoji" alt="raised_hands" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">
  </g-emoji>
