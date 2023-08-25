@@ -216,6 +216,10 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com/">
 <img width="40px" src="https://camo.githubusercontent.com/ddd323c6c51fbc9a81fcbb60fe25a588ab59fdd6567b7e827f4d2d5c4e09f6a1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="max-width: 100%;">
  </a>
+
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://kubernetes.io/pt-br/">
+<img width="40px" src="https://camo.githubusercontent.com/f64a041d6d0cda76988a117724ce3b3272b8fc5f9f742c4dcb9160be9a2c41c1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="max-width: 100%;">
+ </a>
  
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.docker.com/">
 <img width="40px" src="https://camo.githubusercontent.com/f64a041d6d0cda76988a117724ce3b3272b8fc5f9f742c4dcb9160be9a2c41c1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="max-width: 100%;">
