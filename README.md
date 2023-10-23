@@ -163,6 +163,9 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
          <a href="https://angular.io" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" style="max-width: 100%;">
           </a>
+         <a href="https://pt.wikipedia.org/wiki/JavaScript" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="sass" width="40" height="40" style="max-width: 100%;">
+        </a>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://html.spec.whatwg.org/">
      <img width="40px" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"></a> 
  </a>
@@ -176,11 +179,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 </a> 
      <a href="https://sass-lang.com" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;">
- </a>
-      <a href="https://pt.wikipedia.org/wiki/JavaScript" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="sass" width="40" height="40" style="max-width: 100%;">
-        </a>
-        
+ </a>        
   </kbd>
  <br>
     <br>
