@@ -198,7 +198,9 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mongodb.com/">
 <img width="40px" src="https://camo.githubusercontent.com/13838c5727b2d6d6ecefbdc1003486d7d0de5bf0ed9f0f490e10f7b3452e708e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" style="max-width: 100%;">
 </a>
- 
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://firebase.google.com/?hl=pt">
+<img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;">
+   </a>
   </kbd>
 </p>
 <p align="center" dir="auto">
@@ -226,10 +228,6 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.docker.com/">
 <img width="40px" src="https://camo.githubusercontent.com/f64a041d6d0cda76988a117724ce3b3272b8fc5f9f742c4dcb9160be9a2c41c1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="max-width: 100%;">
  </a>
- 
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://firebase.google.com/?hl=pt">
-<img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;">
-   </a>
  
 </kbd>
 
