@@ -96,7 +96,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 
 <p dir="auto">
 <a href="https://www.linkedin.com/in/denis-h-p-c/" rel="nofollow">
- <img src="https://camo.githubusercontent.com/01825892082d2ad1834600c2e0a6d15530398268960feac65135bc3392dc5770/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3232323232323f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f68676473616e64616b616c756d2f295d2868747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f68676473616e64616b616c756d2f" data-canonical-src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/" style="max-width: 100%;">
+ <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/" data-canonical-src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/" style="max-width: 100%;">
  </a>
 </p>
 
@@ -150,7 +150,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="spring" width="40" style="max-width: 100%;">
   </a>
       <a href="https://postman.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
   </a>
  
   </kbd>
@@ -164,21 +164,21 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" style="max-width: 100%;">
           </a>
          <a href="https://pt.wikipedia.org/wiki/JavaScript" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="sass" width="40" height="40" style="max-width: 100%;">
+      <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" data-canonical-src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="40" height="40" style="max-width: 100%;">
         </a>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://html.spec.whatwg.org/">
-     <img width="40px" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"></a> 
+     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"></a> 
  </a>
  
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.w3.org/TR/css3-roadmap/">
-     <img width="40px" src="https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;"></a> 
+     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;"></a> 
    </a>
    
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://getbootstrap.com/">
-     <img width="40px" src="https://camo.githubusercontent.com/964a169bbc7417bcf2b1ee0ddd2122d9592a50dee693f9421428bdd11d32c18e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="max-width: 100%;">
+     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="max-width: 100%;">
 </a> 
      <a href="https://sass-lang.com" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" data-canonical-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;">
  </a>        
   </kbd>
  <br>
@@ -188,15 +188,15 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
     <br>
     <br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mysql.com/">
- <img width="40px" src="https://camo.githubusercontent.com/0acfb66ff89d656d796de72f1b001e92dc51bc88139b5b344339a808d35090d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="max-width: 100%;">
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="max-width: 100%;">
 </a>
  
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.postgresql.org/">
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
 </a>
  
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mongodb.com/">
-<img width="40px" src="https://camo.githubusercontent.com/13838c5727b2d6d6ecefbdc1003486d7d0de5bf0ed9f0f490e10f7b3452e708e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" style="max-width: 100%;">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" style="max-width: 100%;">
 </a>
 
   </kbd>
@@ -212,11 +212,11 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 </a>
  
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.heroku.com/">
- <img width="40px" src="https://camo.githubusercontent.com/e28ded186e568aba00abd5c8830f26d821add2d97ddf4a41cf545ec6a1245758/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="max-width: 100%;">
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="max-width: 100%;">
  </a>
 
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com/">
-<img width="40px" src="https://camo.githubusercontent.com/ddd323c6c51fbc9a81fcbb60fe25a588ab59fdd6567b7e827f4d2d5c4e09f6a1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="max-width: 100%;">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="max-width: 100%;">
  </a>
 
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://kubernetes.io/pt-br/">
@@ -224,7 +224,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
  </a>
  
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.docker.com/">
-<img width="40px" src="https://camo.githubusercontent.com/f64a041d6d0cda76988a117724ce3b3272b8fc5f9f742c4dcb9160be9a2c41c1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="max-width: 100%;">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="max-width: 100%;">
  </a>
  
 </kbd>
@@ -237,7 +237,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
  <br>
  
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://code.visualstudio.com/">
- <img width="40px" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
+ <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
  </a>
  
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jetbrains.com/pt-br/idea/">
@@ -245,7 +245,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
  </a>
     
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://visualstudio.microsoft.com/pt-br/">
-<img width="40px" src="https://camo.githubusercontent.com/39ddd51193b851f304bd6c335bc25a837ec7cafbbc4876fa78b994f5e95094ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f76697375616c73747564696f2f76697375616c73747564696f2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width: 100%;">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width: 100%;">
  </a>
     </kbd>
  <br>
