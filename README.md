@@ -233,6 +233,10 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="max-width: 100%;">
  </a>
 
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.sonarsource.com/">
+<img width="40px" height="40px" src="https://assets-eu-01.kc-usercontent.com:443/c35a8dfe-3d03-0143-a0b9-1c34c7b9b595/5590df23-cc3a-4487-a3dd-e5dcb2da8731/sonar-logo-horizontal.svg" data-canonical-src="https://assets-eu-01.kc-usercontent.com:443/c35a8dfe-3d03-0143-a0b9-1c34c7b9b595/5590df23-cc3a-4487-a3dd-e5dcb2da8731/sonar-logo-horizontal.svg" style="max-width: 100%;">
+ </a>
+ 
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jenkins.io/">
 <img width="40px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="max-width: 100%;">
  </a>
@@ -241,9 +245,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 <img width="40px" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" data-canonical-src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" style="max-width: 100%;">
  </a>
 
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.sonarsource.com/">
-<img width="40px" height="40px" src="https://assets-eu-01.kc-usercontent.com:443/c35a8dfe-3d03-0143-a0b9-1c34c7b9b595/5590df23-cc3a-4487-a3dd-e5dcb2da8731/sonar-logo-horizontal.svg" data-canonical-src="https://assets-eu-01.kc-usercontent.com:443/c35a8dfe-3d03-0143-a0b9-1c34c7b9b595/5590df23-cc3a-4487-a3dd-e5dcb2da8731/sonar-logo-horizontal.svg" style="max-width: 100%;">
- </a>
+
  
 </kbd>
 
