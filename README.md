@@ -146,12 +146,18 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
       <a href="https://spring.io/" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="40" style="max-width: 100%;">
   </a>
-        <a href="https://laravel.com/" rel="nofollow">
+  
+   <a href="https://laravel.com/" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="spring" width="40" style="max-width: 100%;">
   </a>
-      <a href="https://postman.com" rel="nofollow">
+  
+   <a href="https://postman.com" rel="nofollow">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
   </a>
+  
+   <a href="https://junit.org/junit5/" rel="nofollow">
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="spring" width="40" style="max-width: 100%;">
+  </a> 
  
   </kbd>
   <br>
@@ -218,13 +224,25 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com/">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="max-width: 100%;">
  </a>
-
+ 
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://kubernetes.io/pt-br/">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="max-width: 100%;">
  </a>
  
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.docker.com/">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="max-width: 100%;">
+ </a>
+
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jenkins.io/">
+<img width="40px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="max-width: 100%;">
+ </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://argoproj.github.io/cd/">
+<img width="40px" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" data-canonical-src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" style="max-width: 100%;">
+ </a>
+
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.sonarsource.com/">
+<img width="40px" height="40px" src="https://assets-eu-01.kc-usercontent.com:443/c35a8dfe-3d03-0143-a0b9-1c34c7b9b595/5590df23-cc3a-4487-a3dd-e5dcb2da8731/sonar-logo-horizontal.svg" data-canonical-src="https://assets-eu-01.kc-usercontent.com:443/c35a8dfe-3d03-0143-a0b9-1c34c7b9b595/5590df23-cc3a-4487-a3dd-e5dcb2da8731/sonar-logo-horizontal.svg" style="max-width: 100%;">
  </a>
  
 </kbd>
