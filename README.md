@@ -148,7 +148,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 </a>
 
 <a href="https://laravel.com/" rel="nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="spring" width="40" style="max-width: 100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" style="max-width: 100%;">
 </a>
 
 <a href="https://postman.com" rel="nofollow">
