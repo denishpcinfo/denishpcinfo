@@ -194,7 +194,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 <br>
 <br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mysql.com/">
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="max-width: 100%;">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="max-width: 100%;">
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.postgresql.org/">
