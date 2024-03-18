@@ -47,7 +47,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 <li>
 <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
 <img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
-</g-emoji> Sou Desenvolvedor Full Stack a mais de 4 anos
+</g-emoji> Sou Desenvolvedor Full Stack a mais de 5 anos
 </li>
 
 <li>
