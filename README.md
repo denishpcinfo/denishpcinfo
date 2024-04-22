@@ -222,7 +222,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.sonarsource.com/">
-<img width="40px" height="40px" src="https://assets-eu-01.kc-usercontent.com:443/c35a8dfe-3d03-0143-a0b9-1c34c7b9b595/5590df23-cc3a-4487-a3dd-e5dcb2da8731/sonar-logo-horizontal.svg" data-canonical-src="https://assets-eu-01.kc-usercontent.com:443/c35a8dfe-3d03-0143-a0b9-1c34c7b9b595/5590df23-cc3a-4487-a3dd-e5dcb2da8731/sonar-logo-horizontal.svg" style="max-width: 100%;">
+<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" data-canonical-src="https://assets-eu-01.kc-usercontent.com:443/c35a8dfe-3d03-0143-a0b9-1c34c7b9b595/5590df23-cc3a-4487-a3dd-e5dcb2da8731/sonar-logo-horizontal.svg" style="max-width: 100%;">
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://kubernetes.io/pt-br/">
