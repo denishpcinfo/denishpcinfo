@@ -133,7 +133,7 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45" style="max-width: 100%;">
 </a>
 <a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170" rel="nofollow">
-<img  src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" alt="r" width="40" height="40" style="max-width: 100%;">
+<img  src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="r" width="40" height="40" style="max-width: 100%;">
 </a>
 </kbd>
 <br>
