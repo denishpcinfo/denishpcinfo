@@ -267,6 +267,10 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://visualstudio.microsoft.com/pt-br/">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width: 100%;">
 </a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://netbeans.apache.org/front/main/index.html">
+<img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" style="max-width: 100%;">
+</a>
 </kbd>
 <br>
 <br>
