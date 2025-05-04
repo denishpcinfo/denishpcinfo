@@ -23,7 +23,7 @@
 </path>
 </svg>
 </a>
-Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz! 
+Um Engenheiro da Computação apaixonado pelo que faz! 
 <g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">
 <img class="emoji" alt="smile" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">
 </g-emoji>
@@ -33,12 +33,12 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
 </path>
 </svg>
-</a>Sou Desenvolvedor Full Stack na D3N15 TEC
+</a>Sou Desenvolvedor Full Stack, Pentester e Engenheiro de IoT.
 </h3>
 
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">
 <img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">
-</g-emoji> Atualmente estou desenvolvendo uma máquina de vendas automática com e-commerce 
+</g-emoji> Trabalho tanto com o Software, Hardware ou Segurança da Informação!
 <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">
 <img class="emoji" alt="grin" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">
 </g-emoji>
@@ -240,6 +240,10 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="max-width: 100%;">
 </a>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://azure.microsoft.com/pt-br/">
+<img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png" style="max-width: 100%;">
+</a>
+
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jenkins.io/">
 <img width="40px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="max-width: 100%;">
 </a>
@@ -247,8 +251,6 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://argoproj.github.io/cd/">
 <img width="40px" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" data-canonical-src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" style="max-width: 100%;">
 </a>
-
-
 
 </kbd>
 
