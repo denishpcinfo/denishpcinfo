@@ -205,6 +205,9 @@ Um Engenheiro da Computação e desenvolvedor Full Stack apaixonado pelo que faz
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" style="max-width: 100%;">
 </a>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://redis.io/">
+<img width="40px" src="https://qualified-production.s3.us-east-1.amazonaws.com/uploads/7U9HDVYzTNS1JkJ3HJxVAG8hSXkbMDvvd7cuv/32711c35059c66ca3502aa7746362ab3ea99aa4a08a1f58d960e2709eff27d7c.png" data-canonical-src="https://qualified-production.s3.us-east-1.amazonaws.com/uploads/7U9HDVYzTNS1JkJ3HJxVAG8hSXkbMDvvd7cuv/32711c35059c66ca3502aa7746362ab3ea99aa4a08a1f58d960e2709eff27d7c.png" style="max-width: 100%;">
+</a>
 </kbd>
 </p>
 <p align="center" dir="auto">
