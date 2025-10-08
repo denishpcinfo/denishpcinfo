@@ -118,7 +118,7 @@ Um Engenheiro da Computação apaixonado pelo que faz!
 <img  width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" style="max-width: 100%;">
 </a> 
 <a rel="nofollow" href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)">
-<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="max-width: 100%;">
+<img width="40px" height="40px" src="https://devicon-website.vercel.app/api/c/original.svg" style="max-width: 100%;">
 </a> 
 <a href="https://www.typescriptlang.org/" rel="nofollow">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;">
