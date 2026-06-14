@@ -241,7 +241,7 @@ Um Engenheiro da Computação apaixonado pelo que faz!
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://azure.microsoft.com/pt-br/">
-<img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png" style="max-width: 100%;">
+<img width="40px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azure/azure-original.svg" data-canonical-src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azure/azure-original.svg" style="max-width: 100%;">
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jenkins.io/">
@@ -253,6 +253,33 @@ Um Engenheiro da Computação apaixonado pelo que faz!
 </a>
 
 </kbd>
+
+
+<br>
+<br>
+
+
+
+<kbd>
+<kbd>Observability </kbd>
+<br>
+<br>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dynatrace.com/">
+<img width="40px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dynatrace/dynatrace-original.svg" data-canonical-src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dynatrace/dynatrace-original.svg" style="max-width: 100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://grafana.com/">
+<img width="40px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/grafana/grafana-original.svg" data-canonical-src="https://github.com/devicons/devicon/blob/v2.17.0/icons/grafana/grafana-original.svg" style="max-width: 100%;">
+</a>
+</kbd>
+
+
+
+
+
+
+
 
 <br>
 <br>
