@@ -1,14 +1,14 @@
 
 
-<h2 dir="auto"><a id="user-content--about" class="anchor" aria-hidden="true" href="#-about"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-<path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
-</path>
-</svg>
-</a>
-<g-emoji class="g-emoji" alias="monocle_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d0.png">
-<img class="emoji" alt="monocle_face" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d0.png">
-</g-emoji> Sobre mim
-</h2>
+<h2>👨‍💻 About Me</h2>
+
+<h3 align="center">
+Software Engineer | Full Stack Developer | Computer Engineer
+</h3>
+
+<p align="center">
+Passionate about building scalable, resilient and secure software solutions, with strong experience in backend development, distributed systems and enterprise applications.
+</p>
 
 <p dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/117d0191569b7e00e69062ce99d26fe9c251dc735c57386b497c75b0b26dda08/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966" data-target="animated-image.originalLink">
@@ -16,89 +16,32 @@
 </a>
 </p>
 
-<h3 align="center" >
-<a id="user-content-a-passionate-front-end-developer-love-to-build-mobile-and-web-applications-with-latest-tech-available" class="anchor" aria-hidden="true" href="#a-passionate-front-end-developer-love-to-build-mobile-and-web-applications-with-latest-tech-available">
-<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-<path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
-</path>
-</svg>
-</a>
-Um Engenheiro da Computação apaixonado pelo que faz! 
-<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">
-<img class="emoji" alt="smile" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">
-</g-emoji>
-</h3>
+<ul>
+  <li>💼 Over 7 years of experience in software development, enterprise applications and distributed systems.</li>
 
-<h3 dir="auto"><a id="user-content-i-am-a-front-end-developer-at-cloudstok-technologies" class="anchor" aria-hidden="true" href="#i-am-a-front-end-developer-at-cloudstok-technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-<path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
-</path>
-</svg>
-</a>Sou Desenvolvedor Full Stack, Pentester e Engenheiro de IoT.
-</h3>
+  <li>☕ Specialized in Java, Spring Boot, REST APIs, Microservices and Event-Driven Architectures.</li>
 
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">
-<img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">
-</g-emoji> Trabalho tanto com o Software, Hardware ou Segurança da Informação!
-<g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">
-<img class="emoji" alt="grin" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">
-</g-emoji>
-</li>
+  <li>☁️ Experienced in Cloud Computing, DevOps, Observability and System Integration.</li>
 
-<li>
-<g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
-<img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
-</g-emoji> Sou Desenvolvedor Full Stack a mais de 7 anos
-</li>
+  <li>🔧 Background in Software Engineering, Internet of Things (IoT) and Information Security.</li>
 
-<li>
-<g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">
-<img class="emoji" alt="dancers" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">
-</g-emoji> Estou procurando colaborar com outros desenvolvedores 
-<g-emoji class="g-emoji" alias="wink" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png">
-<img class="emoji" alt="wink" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png">
-</g-emoji>
-</li>
+  <li>📊 Focused on performance, scalability, reliability and software quality.</li>
 
-<li>
-<g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
-<img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
-</g-emoji> Pergunte-me sobre qualquer coisa, estou feliz em ajudar 
-<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">
-<img class="emoji" alt="smile" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">
-</g-emoji>
-</li>
+  <li>🔐 Strong interest in Cyber Security, Data Protection and Secure Software Development.</li>
 
-<li>
-<g-emoji class="g-emoji" alias="climbing" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d7.png">
-<img class="emoji" alt="climbing" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d7.png">
-</g-emoji> Eu tento: Ir além e ultrapassar os limites 
-</li>
+  <li>📚 Continuous learner, always exploring new technologies, architectures and engineering practices.</li>
 
-<li>
-<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">
-<img class="emoji" alt="zap" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">
-</g-emoji> Curiosidade: Sempre pensando na segurança dos dados! 
-<g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">
-<img class="emoji" alt="raised_hands" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">
-</g-emoji>
-</li>
+  <li>🤝 Open to collaborating on innovative projects, open-source initiatives and knowledge sharing.</li>
+</ul>
 
-<h3 align="left" dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me">
-<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-<path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
-</path>
-</svg>
-</a>
-<g-emoji class="g-emoji" alias="arrow_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/25b6.png">
-<img class="emoji" alt="arrow_forward" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/25b6.png">
-</g-emoji> Conect comigo 
-</h3>
+<h3>📬 Connect with Me</h3>
 
-<p dir="auto">
-<a href="https://www.linkedin.com/in/denis-h-p-c/" rel="nofollow">
-<img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/" data-canonical-src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/" style="max-width: 100%;">
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/denis-h-p-c/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 <h3 align="left" dir="auto"><a id="user-content--languages-and-tools" class="anchor" aria-hidden="true" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
 <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
@@ -107,11 +50,11 @@ Um Engenheiro da Computação apaixonado pelo que faz!
 </a>
 <g-emoji class="g-emoji" alias="arrow_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/25b6.png">
 <img class="emoji" alt="arrow_forward" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/25b6.png">
-</g-emoji> Linguagens e ferramentas 
+</g-emoji> Languages ​​and tools
 </h3>
 <p align="center" dir="auto">
 <kbd>
-<kbd>Linguagens de programação </kbd>
+<kbd>Programming languages </kbd>
 <br>
 <br>
 <a rel="nofollow" href="https://www.java.com/pt-BR/">
@@ -139,7 +82,7 @@ Um Engenheiro da Computação apaixonado pelo que faz!
 <br>
 <br>
 <kbd>
-<kbd>Back-end</kbd>
+<kbd>Back-end </kbd>
 <br>
 <br>
 </a>
@@ -163,7 +106,7 @@ Um Engenheiro da Computação apaixonado pelo que faz!
 <br>
 <br>
 <kbd>
-<kbd>Front-end</kbd>
+<kbd>Front-end </kbd>
 <br>
 <br> 
 <a href="https://angular.io" rel="nofollow">
@@ -190,7 +133,7 @@ Um Engenheiro da Computação apaixonado pelo que faz!
 <br>
 <br>
 <kbd>
-<kbd>Banco de Dados</kbd>
+<kbd>Database </kbd>
 <br>
 <br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mysql.com/">
@@ -254,11 +197,8 @@ Um Engenheiro da Computação apaixonado pelo que faz!
 
 </kbd>
 
-
 <br>
 <br>
-
-
 
 <kbd>
 <kbd>Observability </kbd>
@@ -273,13 +213,6 @@ Um Engenheiro da Computação apaixonado pelo que faz!
 <img width="40px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/grafana/grafana-original.svg" data-canonical-src="https://github.com/devicons/devicon/blob/v2.17.0/icons/grafana/grafana-original.svg" style="max-width: 100%;">
 </a>
 </kbd>
-
-
-
-
-
-
-
 
 <br>
 <br>
@@ -308,7 +241,7 @@ Um Engenheiro da Computação apaixonado pelo que faz!
 <br>
 
 <kbd>
-<kbd>Desenvolvimento de Hardware </kbd>
+<kbd>Hardware Development </kbd>
 <br>
 <br>
 
